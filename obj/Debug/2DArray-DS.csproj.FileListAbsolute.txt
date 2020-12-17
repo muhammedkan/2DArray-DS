@@ -1,0 +1,6 @@
+D:\HackerRank\2DArray-DS\bin\Debug\2DArray-DS.exe.config
+D:\HackerRank\2DArray-DS\bin\Debug\2DArray-DS.exe
+D:\HackerRank\2DArray-DS\bin\Debug\2DArray-DS.pdb
+D:\HackerRank\2DArray-DS\obj\Debug\2DArray-DS.csprojAssemblyReference.cache
+D:\HackerRank\2DArray-DS\obj\Debug\2DArray-DS.exe
+D:\HackerRank\2DArray-DS\obj\Debug\2DArray-DS.pdb
